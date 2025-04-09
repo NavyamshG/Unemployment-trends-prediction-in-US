@@ -69,7 +69,7 @@ jupyter notebook Predictive_Analytics_Project.ipynb
 
 ## Contributors
 
-- Nithyasree Kusakula (https://github.com/Nithya-15)
+- Nithyasree Kusakula 
 - Navyamsh Gangavaram
 - Yash Garg
 
